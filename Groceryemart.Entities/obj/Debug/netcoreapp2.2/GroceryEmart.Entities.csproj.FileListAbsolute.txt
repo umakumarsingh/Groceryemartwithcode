@@ -1,0 +1,28 @@
+D:\Project-SQLDb\Grocerydelevery.Entities\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.deps.json
+D:\Project-SQLDb\Grocerydelevery.Entities\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+D:\Project-SQLDb\Grocerydelevery.Entities\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+D:\Project-SQLDb\Grocerydelevery.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-SQLDb\Grocerydelevery.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.AssemblyInfoInputs.cache
+D:\Project-SQLDb\Grocerydelevery.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.AssemblyInfo.cs
+D:\Project-SQLDb\Grocerydelevery.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.csproj.CoreCompileInputs.cache
+D:\Project-SQLDb\Grocerydelevery.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+D:\Project-SQLDb\Grocerydelevery.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+D:\Project-SQLDb\Groceryemart.Entities\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.deps.json
+D:\Project-SQLDb\Groceryemart.Entities\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+D:\Project-SQLDb\Groceryemart.Entities\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+D:\Project-SQLDb\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-SQLDb\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.AssemblyInfoInputs.cache
+D:\Project-SQLDb\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.AssemblyInfo.cs
+D:\Project-SQLDb\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.csproj.CoreCompileInputs.cache
+D:\Project-SQLDb\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+D:\Project-SQLDb\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Entities\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.deps.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Entities\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Entities\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.csproj.AssemblyReference.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.AssemblyInfoInputs.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.AssemblyInfo.cs
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Entities\obj\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb

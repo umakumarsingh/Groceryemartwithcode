@@ -1,0 +1,5 @@
+D:\IIHT\Task_6\Project-MongoDb\Grocerydelevery.DataLayer\bin\Debug\netcoreapp3.1\Grocerydelevery.DataLayer.deps.json
+D:\IIHT\Task_6\Project-MongoDb\Grocerydelevery.DataLayer\bin\Debug\netcoreapp3.1\Grocerydelevery.DataLayer.dll
+D:\IIHT\Task_6\Project-MongoDb\Grocerydelevery.DataLayer\obj\Debug\netcoreapp3.1\Grocerydelevery.DataLayer.csprojAssemblyReference.cache
+D:\IIHT\Task_6\Project-MongoDb\Grocerydelevery.DataLayer\obj\Debug\netcoreapp3.1\Grocerydelevery.DataLayer.AssemblyInfoInputs.cache
+D:\IIHT\Task_6\Project-MongoDb\Grocerydelevery.DataLayer\obj\Debug\netcoreapp3.1\Grocerydelevery.DataLayer.AssemblyInfo.cs

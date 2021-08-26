@@ -1,0 +1,60 @@
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.deps.json
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.runtimeconfig.json
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.runtimeconfig.dev.json
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Tests.deps.json
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Tests.runtimeconfig.json
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Tests.runtimeconfig.dev.json
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Tests.dll
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Tests.pdb
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.dll
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.pdb
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb
+D:\Project-SQLDb\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+D:\Project-SQLDb\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.csproj.AssemblyReference.cache
+D:\Project-SQLDb\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-SQLDb\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.AssemblyInfoInputs.cache
+D:\Project-SQLDb\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.AssemblyInfo.cs
+D:\Project-SQLDb\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.csproj.CoreCompileInputs.cache
+D:\Project-SQLDb\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.csproj.CopyComplete
+D:\Project-SQLDb\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.dll
+D:\Project-SQLDb\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.pdb
+D:\Project-SQLDb\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.genruntimeconfig.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.deps.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.runtimeconfig.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.runtimeconfig.dev.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Tests.deps.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Tests.runtimeconfig.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Tests.runtimeconfig.dev.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Tests.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Tests.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.csproj.AssemblyReference.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.AssemblyInfoInputs.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.AssemblyInfo.cs
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.csproj.CopyComplete
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.Tests\obj\Debug\netcoreapp2.2\GroceryEmart.Tests.genruntimeconfig.cache

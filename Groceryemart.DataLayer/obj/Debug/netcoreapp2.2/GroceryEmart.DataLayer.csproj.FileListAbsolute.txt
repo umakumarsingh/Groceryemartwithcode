@@ -1,0 +1,26 @@
+D:\Project-SQLDb\Groceryemart.DataLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.deps.json
+D:\Project-SQLDb\Groceryemart.DataLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+D:\Project-SQLDb\Groceryemart.DataLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb
+D:\Project-SQLDb\Groceryemart.DataLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+D:\Project-SQLDb\Groceryemart.DataLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+D:\Project-SQLDb\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.csproj.AssemblyReference.cache
+D:\Project-SQLDb\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-SQLDb\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.AssemblyInfoInputs.cache
+D:\Project-SQLDb\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.AssemblyInfo.cs
+D:\Project-SQLDb\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.csproj.CoreCompileInputs.cache
+D:\Project-SQLDb\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.csproj.CopyComplete
+D:\Project-SQLDb\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+D:\Project-SQLDb\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.deps.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.AssemblyInfo.cs
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.csproj.CopyComplete
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart.DataLayer\obj\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb

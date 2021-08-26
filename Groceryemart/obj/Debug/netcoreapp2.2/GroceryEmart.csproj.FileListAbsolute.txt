@@ -1,0 +1,50 @@
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.deps.json
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.runtimeconfig.json
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.runtimeconfig.dev.json
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.dll
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.pdb
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb
+D:\Project-SQLDb\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.csproj.AssemblyReference.cache
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.AssemblyInfoInputs.cache
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.AssemblyInfo.cs
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.csproj.CoreCompileInputs.cache
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.RazorAssemblyInfo.cache
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.RazorAssemblyInfo.cs
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.RazorTargetAssemblyInfo.cache
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.csproj.CopyComplete
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.dll
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.pdb
+D:\Project-SQLDb\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.genruntimeconfig.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.deps.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.runtimeconfig.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.runtimeconfig.dev.json
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.BusinessLayer.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.DataLayer.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\bin\Debug\netcoreapp2.2\GroceryEmart.Entities.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.csproj.AssemblyReference.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.AssemblyInfoInputs.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.AssemblyInfo.cs
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.csproj.CoreCompileInputs.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.RazorAssemblyInfo.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.RazorAssemblyInfo.cs
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.RazorTargetAssemblyInfo.cache
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.csproj.CopyComplete
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.dll
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.pdb
+C:\Users\Uma Kumar\Documents\GitHub\Groceryemartwithcode\Groceryemart\obj\Debug\netcoreapp2.2\GroceryEmart.genruntimeconfig.cache
