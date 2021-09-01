@@ -3770,11 +3770,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uma Kumar\\Documents\\GitHub\\Groceryemartwithcode\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj",
+      "projectUniqueName": "D:\\IIHT DATA\\Groceryemart_with_code\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj",
       "projectName": "GroceryEmart.DataLayer",
-      "projectPath": "C:\\Users\\Uma Kumar\\Documents\\GitHub\\Groceryemartwithcode\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj",
+      "projectPath": "D:\\IIHT DATA\\Groceryemart_with_code\\Groceryemart.DataLayer\\GroceryEmart.DataLayer.csproj",
       "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uma Kumar\\Documents\\GitHub\\Groceryemartwithcode\\Groceryemart.DataLayer\\obj\\",
+      "outputPath": "D:\\IIHT DATA\\Groceryemart_with_code\\Groceryemart.DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3794,8 +3794,8 @@
         "netcoreapp2.2": {
           "targetAlias": "netcoreapp2.2",
           "projectReferences": {
-            "C:\\Users\\Uma Kumar\\Documents\\GitHub\\Groceryemartwithcode\\Groceryemart.Entities\\GroceryEmart.Entities.csproj": {
-              "projectPath": "C:\\Users\\Uma Kumar\\Documents\\GitHub\\Groceryemartwithcode\\Groceryemart.Entities\\GroceryEmart.Entities.csproj"
+            "D:\\IIHT DATA\\Groceryemart_with_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj": {
+              "projectPath": "D:\\IIHT DATA\\Groceryemart_with_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj"
             }
           }
         }

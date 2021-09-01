@@ -193,5 +193,29 @@ namespace GroceryEmart.Tests.TestCases
             await File.AppendAllTextAsync("../../../../output_exception_revised.txt", "Testfor_Validate_InValid_RemoveProduct=" + res + "\n");
             return res;
         }
+        /// <summary>
+        /// test to validate productId and UserId shoild be > 0 is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_Validate_InValid_PlaceOrder()
+        {
+            //Arrange
+            var res = false;
+            var ProductId = 0;
+            var UserId = 0;
+            //Action
+            groceryservice.Setup(repos => repos.PlaceOrder(ProductId, UserId)).ReturnsAsync(false);
+            var result = await _groceryS.PlaceOrder(ProductId, UserId);
+            if (result == false)
+            {
+                res = true;
+            }
+            //Assert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_exception_revised.txt", "Testfor_Validate_InValid_PlaceOrder=" + res + "\n");
+            return res;
+        }
     }
+
 }

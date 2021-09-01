@@ -80,18 +80,25 @@ namespace GroceryEmart.BusinessLayer.Services.Repository
             try
             {
                 var res = false;
-                var findProduct = _groceryemartDbContext.products.FirstOrDefault(p=>p.ProductId == ProductId);
-                if(findProduct != null)
+                if(ProductId > 0 && UserId > 0)
                 {
-                    var order = new ProductOrder()
+                    var findProduct = _groceryemartDbContext.products.FirstOrDefault(p => p.ProductId == ProductId);
+                    if (findProduct != null)
                     {
-                        ProductId = findProduct.ProductId,
-                        UserId = UserId
-                    };
-                    await _groceryemartDbContext.AddAsync(order);
-                    await _groceryemartDbContext.SaveChangesAsync();
+                        var order = new ProductOrder()
+                        {
+                            ProductId = findProduct.ProductId,
+                            UserId = UserId
+                        };
+                        await _groceryemartDbContext.AddAsync(order);
+                        await _groceryemartDbContext.SaveChangesAsync();
+                    }
+                    res = true;
                 }
-                res = true;
+                else
+                {
+                    return false;
+                }
                 return res;
             }
             catch (Exception ex)

@@ -1,5 +1,17 @@
 Testfor_ValidEmail=True
+Testfor_Validate_Title=True
+Testfor_ValidateUserName=True
+Testfor_Validate_OpenInNewWindow=True
+Testfor_ValidateUserHouseNo_Road_area=True
+Testfor_Validate_ProductOrder_OrderId=False
+Testfor_ValidateUserPassword=True
+Testfor_ValidateUserHouseNo_Building_Name=True
+Testfor_Validate_Url=True
+Testfor_Validate_CatId=True
+Testfor_ValidateUserPinCode=True
 Testfor_ValidateProductId=True
 Testfor_ValidateUserId=True
+Testfor_ValidateUser_City=True
+Testfor_ValidateUserHouseNo_State=True
 Testfor_ValidateCategoryId=True
 Testfor_ValidateMobileNumber=True

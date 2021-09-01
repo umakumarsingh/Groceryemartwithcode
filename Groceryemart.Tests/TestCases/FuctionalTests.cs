@@ -24,6 +24,7 @@ namespace GroceryEmart.Tests.TestCases
         private ApplicationUser _user;
         private Product _product;
         private Category _category;
+        private ProductOrder _productOrder;
         public FuctionalTests()
         {
             /// <summary>
@@ -60,6 +61,12 @@ namespace GroceryEmart.Tests.TestCases
                 CatId=1,
                 Url = "~/Home",
                 OpenInNewWindow = false
+            };
+            _productOrder = new ProductOrder()
+            {
+                OrderId = 1,
+                ProductId = 1,
+                UserId = 1
             };
         }
         /// <summary>
@@ -446,6 +453,69 @@ namespace GroceryEmart.Tests.TestCases
             }
             //final result displaying in text file
             await File.AppendAllTextAsync("../../../../output_revised.txt", "TestFor_GetAllOrder=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Test to validate get placed order bu order Id
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_Validate_GetOrderById()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            adminservice.Setup(repo => repo.GetOrderById(_productOrder.OrderId));
+            var result = await _adminGroceryS.GetOrderById(_productOrder.OrderId);
+            if (result != null)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_revised.txt", "Testfor_Validate_GetOrderById=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Test to validate get all product
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_Validate_AllProduct()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            adminservice.Setup(repo => repo.AllProduct());
+            var result = await _adminGroceryS.AllProduct();
+            if (result != null)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_revised.txt", "Testfor_Validate_AllProduct=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Test to validate get all user
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_Validate_GetAllUser()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            adminservice.Setup(repo => repo.GetAllUser());
+            var result = await _adminGroceryS.GetAllUser();
+            if (result != null)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_revised.txt", "Testfor_Validate_GetAllUser=" + res + "\n");
             return res;
         }
     }

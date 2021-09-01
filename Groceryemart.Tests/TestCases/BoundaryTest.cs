@@ -107,6 +107,160 @@ namespace GroceryEmart.Tests.TestCases
             return res;
         }
         /// <summary>
+        /// Testfor_ValidateUserName is used to test register user is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_ValidateUserName()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            userservice.Setup(repo => repo.Register(_user)).ReturnsAsync(_user);
+            var result = await _userGroceryS.Register(_user);
+
+            if (result.Name == _user.Name)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_ValidateUserName=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Testfor_ValidateUser_Password is used to test register user is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_ValidateUserPassword()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            userservice.Setup(repo => repo.Register(_user)).ReturnsAsync(_user);
+            var result = await _userGroceryS.Register(_user);
+
+            if (result.Password == _user.Password)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_ValidateUserPassword=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Testfor_ValidateUser_PinCode is used to test register user is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_ValidateUserPinCode()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            userservice.Setup(repo => repo.Register(_user)).ReturnsAsync(_user);
+            var result = await _userGroceryS.Register(_user);
+
+            if (result.PinCode == _user.PinCode)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_ValidateUserPinCode=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Testfor_ValidateUser_HouseNo_Building_Name is used to test register user is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_ValidateUserHouseNo_Building_Name()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            userservice.Setup(repo => repo.Register(_user)).ReturnsAsync(_user);
+            var result = await _userGroceryS.Register(_user);
+
+            if (result.HouseNo_Building_Name == _user.HouseNo_Building_Name)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_ValidateUserHouseNo_Building_Name=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Testfor_ValidateUser_Road_area is used to test register user is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_ValidateUserHouseNo_Road_area()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            userservice.Setup(repo => repo.Register(_user)).ReturnsAsync(_user);
+            var result = await _userGroceryS.Register(_user);
+
+            if (result.Road_area == _user.Road_area)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_ValidateUserHouseNo_Road_area=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Testfor_ValidateUser_City is used to test register user is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_ValidateUser_City()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            userservice.Setup(repo => repo.Register(_user)).ReturnsAsync(_user);
+            var result = await _userGroceryS.Register(_user);
+
+            if (result.City == _user.City)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_ValidateUser_City=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Testfor_ValidateUser_State is used to test register user is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_ValidateUserHouseNo_State()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            userservice.Setup(repo => repo.Register(_user)).ReturnsAsync(_user);
+            var result = await _userGroceryS.Register(_user);
+
+            if (result.State == _user.State)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_ValidateUserHouseNo_State=" + res + "\n");
+            return res;
+        }
+        /// <summary>
         /// Testfor_ValidateProductId is used to test ProductId is valid or not
         /// </summary>
         /// <returns></returns>
@@ -150,6 +304,117 @@ namespace GroceryEmart.Tests.TestCases
             await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_ValidateCategoryId=" + res + "\n");
             return res;
         }
+        /// <summary>
+        /// Testfor_Validate_CatId is used to test create new category is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_Validate_CatId()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            adminservice.Setup(repo => repo.AddCategory(_category)).ReturnsAsync(_category);
+            var result = await _adminGroceryS.AddCategory(_category);
+
+            if (result.CatId == _category.CatId)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_Validate_CatId=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Testfor_Validate_Title is used to test create new category is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_Validate_Title()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            adminservice.Setup(repo => repo.AddCategory(_category)).ReturnsAsync(_category);
+            var result = await _adminGroceryS.AddCategory(_category);
+
+            if (result.Title == _category.Title)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_Validate_Title=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Testfor_Validate_Url is used to test create new category is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_Validate_Url()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            adminservice.Setup(repo => repo.AddCategory(_category)).ReturnsAsync(_category);
+            var result = await _adminGroceryS.AddCategory(_category);
+
+            if (result.Url == _category.Url)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_Validate_Url=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Testfor_Validate_OpenInNewWindow is used to test create new category is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_Validate_OpenInNewWindow()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            adminservice.Setup(repo => repo.AddCategory(_category)).ReturnsAsync(_category);
+            var result = await _adminGroceryS.AddCategory(_category);
+
+            if (result.OpenInNewWindow == _category.OpenInNewWindow)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_Validate_OpenInNewWindow=" + res + "\n");
+            return res;
+        }
+        /// <summary>
+        /// Testfor_Validate_ProductOrder_OrderId is used to test place order is valid or not
+        /// </summary>
+        /// <returns></returns>
+        [Fact]
+        public async Task<bool> Testfor_Validate_ProductOrder_OrderId()
+        {
+            //Arrange
+            bool res = false;
+            //Act
+            groceryservice.Setup(repo => repo.PlaceOrder(_user.UserId, _product.ProductId));
+            var result = await _groceryS.PlaceOrder(_user.UserId, _product.ProductId);
+
+            if (result == true)
+            {
+                res = true;
+            }
+            //Asert
+            //final result displaying in text file
+            await File.AppendAllTextAsync("../../../../output_boundary_revised.txt", "Testfor_Validate_ProductOrder_OrderId=" + res + "\n");
+            return res;
+        }
+
         /// <summary>
         /// Testfor_ValidEmail to test email id is valid or not
         /// </summary>

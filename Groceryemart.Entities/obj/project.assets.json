@@ -723,11 +723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Uma Kumar\\Documents\\GitHub\\Groceryemartwithcode\\Groceryemart.Entities\\GroceryEmart.Entities.csproj",
+      "projectUniqueName": "D:\\IIHT DATA\\Groceryemart_with_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj",
       "projectName": "GroceryEmart.Entities",
-      "projectPath": "C:\\Users\\Uma Kumar\\Documents\\GitHub\\Groceryemartwithcode\\Groceryemart.Entities\\GroceryEmart.Entities.csproj",
+      "projectPath": "D:\\IIHT DATA\\Groceryemart_with_code\\Groceryemart.Entities\\GroceryEmart.Entities.csproj",
       "packagesPath": "C:\\Users\\Uma Kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Uma Kumar\\Documents\\GitHub\\Groceryemartwithcode\\Groceryemart.Entities\\obj\\",
+      "outputPath": "D:\\IIHT DATA\\Groceryemart_with_code\\Groceryemart.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

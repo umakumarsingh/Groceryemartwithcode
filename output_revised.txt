@@ -1,7 +1,9 @@
 Testfor_Validate_GetCategorylist=False
 Testfor_Validate_GetProductByName=True
 Testfor_Validate_UpdateCategory=True
+Testfor_Validate_GetAllUser=True
 Testfor_Validate_GetProductById=True
+Testfor_Validate_AllProduct=True
 Testfor_Validate_GetProductByCategory=True
 TestFor_GetAllProduct=True
 TestFor_GetAllOrder=True
@@ -11,6 +13,7 @@ TestFor_RemoveProduct=True
 Testfor_Validate_UpdateProduct=True
 TestFor_RemoveCategory=True
 Testfor_Validate_ValidAddCategory=True
+Testfor_Validate_GetOrderById=False
 Testfor_Validate_ValidUserRegister=True
 Testfor_Validate_GetCategoryById=True
 Testfor_Validate_UpdateUser=True
